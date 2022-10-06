@@ -25,7 +25,7 @@ Here are the formulas how we obtained the results of both years.
 Also we have a comparison of the execution time between the original script and the refractored one. Original Script was much faster than the refractored: 
 
 - Original Script: 
-![OriginalScript](https://user-images.githubusercontent.com/113566508/194196885-a4b583a0-db4c-4d6c-b08c-fa553bcaa480.png)
+- ![OriginalScript](https://user-images.githubusercontent.com/113566508/194196885-a4b583a0-db4c-4d6c-b08c-fa553bcaa480.png)
 
 - Refractored Script: 
 - ![VBA_Challenge_2017](https://user-images.githubusercontent.com/113566508/194196979-e2a8302d-5d4f-4e96-94fa-440983031c80.png)
